@@ -2,7 +2,7 @@ function Form() {
 
     return (
 
-        <h1>Página de listagem</h1>
+        <h1>Página de formulário</h1>
 
     );
 }
